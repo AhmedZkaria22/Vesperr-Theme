@@ -643,7 +643,6 @@ nav .navbar-collapse .navbarBrandLink:hover {
   width: 95%;
   background: rgba(255, 255, 255, 0.9);
   margin: 0 auto;
-  height: 181px;
   padding: 15px 30px;
   border-radius: 5px;
   transition: all 0.3s ease-in-out;
@@ -1345,7 +1344,7 @@ nav .navbar-collapse .navbarBrandLink:hover {
   display: flex;
   align-items: center;
   margin-right: 0;
-  margin-left: 16.5%;
+  margin-left: 16.5%!important;
 }
 .footer .container .row .col-md-5 div a {
   color: #222222;
